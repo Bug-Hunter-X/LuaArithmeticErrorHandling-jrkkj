@@ -1,0 +1,2 @@
+# Lua Type Mismatch Bug
+This repository demonstrates a common Lua error: attempting arithmetic operations on unexpected data types. The `bug.lua` file contains code that attempts to add 1 to a string, resulting in a runtime error. The solution, `bugSolution.lua`, shows how to prevent this error using explicit type checking.
